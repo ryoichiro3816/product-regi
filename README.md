@@ -8,6 +8,22 @@
   <a href="Railsのロゴ"><img src="https://raw.github.com/wiki/ryoichiro3816/product-regi/images/rails.png" width="80px;" /></a>
   <br>
 
+<p align="center">
+  <a href="PostgreSQLのロゴ"><img src="https://raw.github.com/wiki/ryoichiro3816/product-regi/images/postgre.png" width="80px;" /></a>
+  <br>
+
+<p align="center">
+  <a href="docker_composeのロゴ"><img src="https://raw.github.com/wiki/ryoichiro3816/product-regi/images/docker_compose.jpg" width="80px;" /></a>
+  <br>
+
+<p align="center">
+  <a href="travis_CIのロゴ"><img src="https://raw.github.com/wiki/ryoichiro3816/product-regi/images/travis.png" width="80px;" /></a>
+  <br>
+
+<p align="center">
+  <a href="Herokuのロゴ"><img src="https://raw.github.com/wiki/ryoichiro3816/product-regi/images/Heroku.png" width="80px;" /></a>
+  </p>
+
 
 
 
