@@ -1,4 +1,3 @@
-![demo](https://img.shields.io/travis/ryoichiro3816/product-regi)
 # Product_Register
 
 "Product_Register" is the list that contains the name, price and vendor and displays them. 
@@ -15,7 +14,7 @@ This animation shows the way you can add and delete a product.
 
 * Ruby 2.5.8
 *
-https://img.shields.io/appveyor/build/ryoichiro3816/product-regi
+
 
 
 
