@@ -30,7 +30,7 @@
 　
 ## 💬 Usage
 
-👉https://hub.docker.com/editions/community/docker-ce-desktop-mac (Install docker for mac)
+👉 **https://hub.docker.com/editions/community/docker-ce-desktop-mac** (Install docker for mac)
 
 `$ https://github.com/ryoichiro3816/product-regi.git`
 
@@ -46,7 +46,7 @@
 `
 `$ rails s -b 0.0.0.0`
 
-👉 http://localhost:3000
+👉 **http://localhost:3000**
 　
 ## 💳License
 
