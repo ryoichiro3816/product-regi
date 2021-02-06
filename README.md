@@ -2,6 +2,11 @@
 
 "Product_Register" is a storage that contains the name, price and vendor and displays them. 
 
+# Demo
+
+You can learn how to register products.
+
+
 * Ruby version
 
 * System dependencies
