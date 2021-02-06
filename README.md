@@ -52,11 +52,7 @@
 
 ・<a href="https://raw.githubusercontent.com/ryoichiro3816/product-regi/master/LICENSE">MIT</a>
 
-<h3 align="center">- PWA -</h3>
-
-<p align="center">
-  <img src="https://〜.jpg" width=40%>
-</p>
-
+## 📚Author
+・<a href="https://raw.githubusercontent.com/ryoichiro3816/product-regi/master/LICENSE"></a>
 
 
