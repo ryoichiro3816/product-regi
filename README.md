@@ -1,12 +1,20 @@
 # Product_Register
 
-"Product_Register" is a storage that contains the name, price and vendor and displays them. 
+"Product_Register" is the list that contains the name, price and vendor and displays them. 
 
 # Demo
 
 You can learn how to register products below.
 
 ![demo](https://raw.github.com/wiki/ryoichiro3816/product-regi/images/water.gif)
+
+This animation shows the way you can add and delete a product.
+
+# Requirement
+
+* Ruby 2.5.8
+*
+https://img.shields.io/appveyor/build/ryoichiro3816/product-regi
 
 
 
