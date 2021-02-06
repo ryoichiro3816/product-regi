@@ -5,7 +5,7 @@
 <h2 align="center">Product Register</h2>
 
 <p align="center">
-  <a href="Railsのロゴ"><img src="https://raw.github.com/wiki/ryoichiro3816/product-regi/images/rais-1.svg" width="45px;" /></a>
+  <a href="Railsのロゴ"><img src="https://raw.github.com/wiki/ryoichiro3816/product-regi/images/rails.png" width="45px;" /></a>
   <br>
 
 
