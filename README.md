@@ -1,19 +1,12 @@
-# Product_Register
-
-"Product_Register" is the list that contains the name, price and vendor and displays them. 
-
-# Demo
-
-You can learn how to register products below.
+![tag](https://img.shields.io/travis/ryoichiro3816/product-regi/master)
 
 ![demo](https://raw.github.com/wiki/ryoichiro3816/product-regi/images/water.gif)
 
-This animation shows the way you can add and delete a product.
+<h2 align="center">Product Register</h2>
 
-# Requirement
-
-* Ruby 2.5.8
-*
+<p align="center">
+  <a href="Railsのロゴ"><img src="https://raw.github.com/wiki/ryoichiro3816/product-regi/images/rais-1.svg" width="45px;" /></a>
+  <br>
 
 
 
