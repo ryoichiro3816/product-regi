@@ -50,7 +50,7 @@
 　
 ## 💳License
 
-・<a href="docker_composeのロゴ">MIT<img src="https://raw.githubusercontent.com/ryoichiro3816/product-regi/master/LICENSE" /></a>
+・<a href="docker_composeのロゴ">MIT<src="https://raw.githubusercontent.com/ryoichiro3816/product-regi/master/LICENSE" /></a>
 
 <h3 align="center">- PWA -</h3>
 
