@@ -30,7 +30,13 @@
 　
 ## 💬 Usage
 
-`$ https://github.com/ryoichiro3816/product-regi.git`  
+$ git clone https://github.com/aocattleya/hoge.git
+$ cd hoge
+$ bundle install
+$ rails db:create
+$ rails db:migrate
+$ rails s
+👉 http://localhost:3000
 　
 
 
