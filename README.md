@@ -32,38 +32,31 @@
 
 👉https://hub.docker.com/editions/community/docker-ce-desktop-mac (Install docker for mac)
 
-`$ git clone https://github.com/aocattleya/hoge.git`
+`$ https://github.com/ryoichiro3816/product-regi.git`
 
-`$ cd hoge`
+`$ cd product-regi`
 
-`$ bundle install`
+`$ docker-compose up -d`
+
+`$ docker-compose exec web bash`
 
 `$ rails db:create`
 
-`$ rails db:migrate`
-
-`$ rails s`
+`$ rails db:migrate
+`
+`$ rails s -b 0.0.0.0`
 
 👉 http://localhost:3000
 　
+## 💳License
+
+・<a href="docker_composeのロゴ">MIT<img src="https://raw.githubusercontent.com/ryoichiro3816/product-regi/master/LICENSE" /></a>
+
+<h3 align="center">- PWA -</h3>
+
+<p align="center">
+  <img src="https://〜.jpg" width=40%>
+</p>
 
 
 
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
