@@ -1,6 +1,6 @@
 ![tag](https://img.shields.io/travis/ryoichiro3816/product-regi/master)
 
-<p align="center">![demo](https://raw.github.com/wiki/ryoichiro3816/product-regi/images/water.gif)</p>
+![demo](https://raw.github.com/wiki/ryoichiro3816/product-regi/images/water.gif)
 
 <h2 align="center">Product Register</h2>
 
