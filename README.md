@@ -30,9 +30,12 @@
 　
 ## 💬 Usage
 
+👉https://hub.docker.com/editions/community/docker-ce-desktop-mac (Install docker for mac)
+
 `$ git clone https://github.com/aocattleya/hoge.git`
 
 `$ cd hoge`
+
 `$ bundle install`
 
 `$ rails db:create`
