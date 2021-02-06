@@ -53,6 +53,6 @@
 ・<a href="https://raw.githubusercontent.com/ryoichiro3816/product-regi/master/LICENSE">MIT</a>
 
 ## 📚Author
-・<a href="https://github.com/ryoichiro3816/product-regi">GitHub</a>
+・<a href="https://github.com/ryoichiro3816">GitHub</a>
 
 
