@@ -24,6 +24,15 @@
   <a href="Herokuのロゴ"><img src="https://raw.github.com/wiki/ryoichiro3816/product-regi/images/Heroku.png" width="320px;" /></a>
   </p>
 
+## 🌐 App URL
+
+### **https://ryoichiro-product.herokuapp.com**  
+　
+## 💬 Usage
+
+`$ https://github.com/ryoichiro3816/product-regi.git`  
+　
+
 
 
 
