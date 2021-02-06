@@ -4,9 +4,11 @@
 
 # Demo
 
-You can learn how to register products.
+You can learn how to register products below.
 
 ![demo](https://raw.github.com/wiki/ryoichiro3816/product-regi/images/water.gif)
+
+
 
 * Ruby version
 
