@@ -4,7 +4,7 @@
 
 <h2 align="center">Product Register</h2>
 
-<h3 align="center">You can add a product which contains a name, price and vendor or delete it.</h3>
+<h3 align="center">You can add a product which contains a name, price and vendor or delete it.</h3><br>
 
 <p align="center">
   <a href="Railsのロゴ"><img src="https://raw.github.com/wiki/ryoichiro3816/product-regi/images/rails.png" width="320px;" /></a>
